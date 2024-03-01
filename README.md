@@ -22,8 +22,8 @@
   text_color: "7fdbca",
   bg_color: "011627",
   -->  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=czagiacomo&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&bg_color=0d1117" alt="Catharina Zagiacomo github stats" />   
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czagiacomo&hide=javascript,html,css&layout=normal&hide_border=true&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&bg_color=0d1117" />
+  <a href = "https://capsule-render.vercel.app"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=czagiacomo&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&bg_color=0d1117" target="_blank" alt="Catharina Zagiacomo github stats" /></a>
+  <a href = "https://capsule-render.vercel.app"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czagiacomo&hide=javascript,html,css&layout=normal&hide_border=true&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&bg_color=0d1117" /></a>
 </div>
 <p> ㅤ</p>
 
