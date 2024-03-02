@@ -6,11 +6,14 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=czagiacomo&bg_color=0d1117&color=D8BFD8&line=6A5ACD&point=87CEFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p> ㅤ</p>
 
+---
+
+<p> ㅤ</p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=czagiacomo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=czagiacomo&theme=discord&row=1&no-bg=true&column=8&margin-w=10&no-frame=true&" />
 </p>
+    
 <p> ㅤ</p>
 
 <div align="center">  
@@ -32,6 +35,9 @@
   <a>ㅤ</a>
   <a href="https://www.linkedin.com/in/czagiacomo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+---
+
 <p> ㅤ</p>
 
 ### Main Skills:
