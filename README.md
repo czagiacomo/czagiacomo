@@ -4,17 +4,55 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B09bff&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Catharina+Zagiacomo;I'm+24+years+old;I'm+from+Brazil;I'm+graduating+in+Cloud+Computing;Take+a+look+at+my+projects!+(%E2%80%A2%E1%B4%97%E2%80%A2))](https://git.io/typing-svg)
 
+---
+
+### 🖐 Olá, me chamo Catharina Zagiacomo!  
+
+Sou uma desenvolvedora back-end com foco em **Java** e um grande entusiasmo por construir aplicações robustas e escaláveis. Atualmente, estou aprofundando meus conhecimentos em **Spring Boot**, **bancos de dados relacionais (PostgreSQL, MySQL)** e **arquiteturas modernas**.  
+
+### 🚀 Sobre mim  
+- 💻 Apaixonada por tecnologia e boas práticas de desenvolvimento.  
+- 🎯 Atualmente focada em **desenvolvimento back-end** com Java e **arquiteturas escaláveis**.  
+- 📚 Sempre aprendendo algo novo, explorando **React**, **Tailwind** e metodologias ágeis.  
+- 🔍 Interesse em segurança da informação, automação de testes e DevOps.  
+
+### 🛠️ Tecnologias e Ferramentas  
+#### Back-end  
+- **Java | Spring Boot | .NET | Python | JPA/Hibernate | REST APIs | JWT | Segurança com Spring Security**  
+- **Banco de Dados: PostgreSQL | MySQL**  
+- **Testes: JUnit | Mockito | Testcontainers**  
+
+#### Front-end  
+- **React.js | Vite | Tailwind CSS | TypeScript**  
+
+#### Ferramentas e DevOps  
+- **Docker | Git | GitHub Actions | CI/CD | AWS | Azure | AWS**  
+
+### 📌 Projetos em Destaque  
+🔹 [**GestãoGen**](#) – Sistema de gestão odontológica B2B desenvolvido com **Java, Spring Boot, React.js e PostgreSQL**. Inclui autenticação JWT, integração com Swagger e implementação de padrões de segurança.  
+
+🔹 [**Blog Pessoal**](#) – Blog criado com **Hashnode** para compartilhar conhecimentos sobre Java, boas práticas e tecnologia.  
+
+🔹 [**Automação de Testes**](#) – Suite de testes automatizados para um sistema de CRM, utilizando **JUnit**.  
+
+### 📫 Entre em contato comigo  
+📧 **Email:** [catharina.zagiacomo@gmail.com](mailto:catharina.zagiacomo@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/czagiacomo/](https://www.linkedin.com/in/czagiacomo/)  
+
+Sinta-se à vontade para explorar meus repositórios e contribuir com feedbacks! 🚀✨  
+
+---
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=czagiacomo&bg_color=0d1117&color=D8BFD8&line=6A5ACD&point=87CEFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 <p> ㅤ</p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=czagiacomo&theme=discord&row=1&no-bg=true&column=8&margin-w=10&no-frame=true&" />
 </p>
-    
-<p> ㅤ</p>
+
+---
 
 <div align="center">  
   <!--
@@ -37,48 +75,6 @@
 </div>
 
 ---
-
-<p> ㅤ</p>
-
-### Main Skills:
-<div>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117" target="_blank" &nbsp></a>
-  <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&labelColor=0D1117"  target="_blank" &nbsp;></a>
-</div>
-<p> ㅤ</p>
-
-### Tools:
-<div>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/-Visual_Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&" target="_blank" &nbsp></a>
-  <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" target="_blank" &nbsp></a>
-  <a href="https://swagger.io" target="_blank"> <img src="https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge&logo=Swagger" target="_blank" &nbsp></a>
-  <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git" target="_blank" &nbsp></a>
-<a href="github.com" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github"  target="_blank" &nbsp;></a>
-<p> ㅤ</p>
-</div>
-
-<!--
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge&logo=Swagger)&nbsp; 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
--->
-
-
-<!--
-### Other Knowledge:
-<div>
-<a href="" target="_blank"> <img src="" target="_blank" &nbsp></a>
-</div>
--->
-
-### Studying in this moment:
-<div>
-  <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=CSharp&logoColor=b14796&labelColor=0D1117" target="_blank" &nbsp></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=512BD4&labelColor=0D1117" target="_blank" &nbsp></a>
-</div>
-<p> ㅤ</p>
 
 
 <a href="https://capsule-render.vercel.app" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B09bff&height=120&section=footer"/>
